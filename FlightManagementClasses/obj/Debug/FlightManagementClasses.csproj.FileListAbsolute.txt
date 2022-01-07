@@ -1,0 +1,6 @@
+D:\OOC LAB\FlightManagementClasses\obj\Debug\FlightManagementClasses.csproj.AssemblyReference.cache
+D:\OOC LAB\FlightManagementClasses\obj\Debug\FlightManagementClasses.csproj.CoreCompileInputs.cache
+D:\OOC LAB\FlightManagementClasses\bin\Debug\FlightManagementClasses.dll
+D:\OOC LAB\FlightManagementClasses\bin\Debug\FlightManagementClasses.pdb
+D:\OOC LAB\FlightManagementClasses\obj\Debug\FlightManagementClasses.dll
+D:\OOC LAB\FlightManagementClasses\obj\Debug\FlightManagementClasses.pdb
